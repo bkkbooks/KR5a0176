@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5a0176/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0176/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七真年譜
+  date: '2015-08-28 23:39:58.705911'
+  source:
+    repository: kanripo
+    path: KR5a0176
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0176_000-CK-KZ-jye.yaml, hash: 'sha256:0ff449bd441b419d396f6d7557a8a1b73fa6fa0b4f3f38acc39028124a46a04c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0176_000-CK-KZ-jye.markers.yaml, hash: 'sha256:abdc4bcbd5c9beb1da61287504f27f480f33eebd5f276cde8865c094479e1c2b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0176_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 5549
+  label: 七真年譜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5a0176_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 5549
+    - 5893
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:4ccfebafc21b4cb628fc42e73768b0955f919e16a7e0c9eadd2d82b70d10be9b

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0176/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0176/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七真年譜
+  date: '2015-08-28 23:39:58.705911'
+  source:
+    repository: kanripo
+    path: KR5a0176
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0176_000-CK-KZ.yaml, hash: 'sha256:6d52ac377921551270c373f62c7ec06c3f22961ac69f346b444b649e737ed819'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0176_000-CK-KZ.markers.yaml, hash: 'sha256:815bef642c49c652ad3a591a5182936a7128d75b1adefb6baea99d8b8bd76ac9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0176_CK-KZ_01p087a
+    span:
+    - body
+    - 0
+    - 5895
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:37f192ddf77465de24ca404a7f7a3c64a0300aa79532ba9f3776fd8d68debaed
