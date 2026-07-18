@@ -3407,6 +3407,7 @@ markers:
   - {type: variant, offset: 5898, length: 5, content: 七眞年譜終, YP-C: ''}
   - {type: substitution, offset: 5899, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 5902, content: (, id: KR5a0176_krp_000-bkkpn1}
+  - {type: voice, offset: 5902, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5903, content: ), id: KR5a0176_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 5903, content: '
 
@@ -3458,4 +3459,4 @@ markers:
 
       ', id: KR5a0176_krp_000-bkkkrnewl477}
   back: []
-hash: sha256:88f04255997dfae559194b56dd853d82498822efe7fea64ae50389a5e8ab84ed
+hash: sha256:88cde0b28e650a1f062545396beeda6313c9e2f61ce299e2ee7918bba27ed0a4
